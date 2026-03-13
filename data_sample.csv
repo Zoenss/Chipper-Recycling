@@ -1,0 +1,9 @@
+data,ponto_coleta,categoria,massa_kg,destino
+2026-03-01,Loja A,smartphone,12.5,reciclagem
+2026-03-01,Loja A,notebook,8.0,reuso
+2026-03-02,Loja B,tablet,5.0,reciclagem
+2026-03-02,Loja B,perifericos,3.2,aterro
+2026-03-03,Loja C,smartphone,9.1,armazenado
+2026-03-03,Loja C,notebook,6.7,reciclagem
+2026-03-04,Loja A,perifericos,2.4,reuso
+2026-03-04,Loja B,smartphone,7.9,aterro
